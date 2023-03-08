@@ -1,2 +1,2 @@
 # OOP
-Matéria de programação orientada a objetos na faculdade
+Estudos de programação orientada a objetos da faculdade.
