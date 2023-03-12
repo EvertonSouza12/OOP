@@ -8,7 +8,7 @@ public class person {
         System.out.print(this.name + "is eating");
     }
 
-    public void idade(){
+    public void age(){
         System.out.print(this.name + "is" + this.age + "old");
     }
 
@@ -48,8 +48,8 @@ public class person {
         person p2 = new person();
 
         p1.setName("Jhon");
-
-
-        p1.getName();
+        p1.setAge(23);
+        p1.play();
+        p1.age();
     }
 }
